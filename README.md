@@ -7,4 +7,5 @@ SwiftUI iOS developer with experience building business analytics, booking, fitn
 ### Awisso+ (Business Analytics App)
 An iOS app for online stores providing sales analytics, order management, and customer communication.
 
-➡️ View project: `AwissoPlus/`
+![Awisso+ App Overview](AwissoPlus/Screenshots/Overview.png)
+➡️ View project: ![Awisso+ App Overview](AwissoPlus/)
